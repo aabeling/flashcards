@@ -1,5 +1,5 @@
-*	name	Klett Green Line Vokabeln
-*	description	Vokabeln aus Green Line aus dem Klett-Verlag
+*	name	Klett Green Line 1 Vokabeln
+*	description	Vokabeln aus Green Line 1, Ausgabe 2006, aus dem Klett-Verlag
 *	author	Achim Abeling
 *	tsv	true
 Text 1	Text 2
@@ -49,3 +49,169 @@ Grundschule	primary school
 mehr; weitere	more
 über	about
 dich selbst	yourself
+Sprache	language
+Leute kennen lernen, Leute treffen	meeting people
+Freund, Freundin	friend
+aber	but
+es ist	it's
+groß	big
+hier ist	here's
+er ist	he's
+sie ist	she's
+das ist	that's
+Frau (Anrede)	Mrs
+Klassenlehrer, Klassenlehrerin	tutor
+Deutschlehrer	German teacher
+also, folglich, deshalb	so
+du bist; ihr seid; Sie sind	you're
+Klasse	tutor group
+Lieblings-	favourite
+Sport, Sportart	sport
+Fußball	football
+Tor	goal
+England	England
+Schuh	shoe
+danke	thank you
+Herr (Anrede)	Mr
+Hausmeister	caretaker
+beängstigend, unheimlich	scary
+Beispiel	example
+Mach/Macht bitte weiter.	Go on, please.
+bitte	please
+Spiel	game
+falsch	wrong
+richtig	right
+Reihenfolge	order
+Tipp, Ratschlag	tip
+Guten Morgen.	Good morning.
+WIe geht es dir/Ihnen?	How are you?
+Mir geht es gut.	I'm fine.
+Du bist dran.	Your turn.
+lang	long
+kurz	short
+Form	form
+bist, sind, seid	are
+wir	we
+Klassenzimmer	classroom
+Ja, das sind wir.	Yes, we are.
+ist nicht	isn't
+sicher	sure
+Zimmer, Raum	room
+Nein, ist er nicht.	No, he isn't.
+wer ist	who's
+nett, sympathisch	nice
+immer	always
+Er kommt zu spät.	He's late.
+Du hast Glück/Ihr habt Glück	You're lucky.
+nicht	not
+bist, sind, seid nicht	aren't (=are not)
+sie	they
+Mädchen	girl
+Junge	boy
+Was ist los?	What's up?
+Es tut mir leid.	I'm sorry.
+Tasche	bag
+mit	with
+Buch	book
+Mama	mum
+Leute, Menschen	people
+einsetzen	to put in
+auf, an	on
+Seite	page
+ihr/-e	her
+Tagebuch	diary
+so	so
+sehr	very
+Grammatik	grammar
+anschauen, ansehen	to look at
+Bild	picture
+machen, bilden	to make
+Satz	sentence
+Frage	question
+Antwort	answer
+Schulsachen	school things
+Schultasche	school bag
+Federmäppchen	pencil-case
+Füller	pen
+Bleistift	pencil
+Radiergummi	rubber
+Linear	ruler
+Heft	exercise book
+Apfel	apple
+abschreiben, abmalen	to copy
+Raster, Tabelle	grid
+heraushören	to listen for
+ausfüllen	to fill in
+Laut	sound
+Liste	list
+spielen	to play
+zwei	two
+drei	three
+vier	four
+fünf	five
+sechs	six
+sieben	seven
+acht	eight
+neun	nine
+zehn	ten
+elf	eleven
+zwölf	twelve
+dreizehn	thirteen
+vierzehn	fourteen
+fünfzehn	fifteen
+sechszehn	sixteen
+siebzehn	seventeen
+achtzehn	eighteen (! nur ein t)
+neunzehn	nineteen
+zwanzig	twenty
+einundzwanzig	twenty-one
+dreißig	thirty
+vierzig	forty (! ohne u)
+fünfzig	fifty
+sechzig	sixty
+siebzig	seventy
+achtzig	eighty
+neunzig	ninety
+hundert	one hundred
+Plural, Mehrzahl	plural
+Alphabet	alphabet
+klatschen	to clap
+Unterrichtsstunde	lessen
+rufen, schreien	to shout
+machen, tun	to do
+buchstabieren	to spell
+Wörter, die du aus der Grundschule kennst	words that you know from primary school
+Worträtsel	word puzzle
+Buchstabe	letter
+Fenster	window
+Stuhl	chair
+Tafel, Brett	board
+Poster	poster
+Tür	door
+Wand, Mauer	wall
+Tisch	table
+Schrank	cupboard
+Schreibtisch	desk
+da ist, es gibt	there's
+da sind, es gibt	there are
+Kartoffelchip	crisp
+unter	under
+hinter	behind
+Schokolade	chocolate
+in, im	in
+anrufen	to phone
+vor	in front of
+benutzen, nutzen	to use
+Sätze für den Unterricht	classroom phrases
+auf Englisch	in Englisch (! großes E)
+Tut mir leid, dass ich zu spät komme.	Sorry I'm late.
+Was haben wir als Hausaufgabe auf, bitte?	What's for homework, please?
+Kann ich bitte zur Toilette gehen?	Can I go to the toilet, please?
+Setz dich/Setzt euch bitte.	Sit down, please.
+Nichts zu danken/Gern geschehen	You're welcome.
+auf Wiedersehen	goodbye
+tschüss	bye
+jetzt, nun, gerade	now
+Rollenspiel	role play
+spielen (eine Rolle)	to act
+Dialog	dialogue
