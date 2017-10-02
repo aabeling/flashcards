@@ -1,0 +1,51 @@
+*	name	Klett Green Line Vokabeln
+*	description	Vokabeln aus Green Line aus dem Klett-Verlag
+*	author	Achim Abeling
+*	tsv	true
+Text 1	Text 2
+Einchecken	check-in
+Hallo	Hello
+Ich heiße...	My name is...
+Ich bin	I'am
+elf	eleven
+aus, von	from
+in	in
+ein/-e	a, an
+Schüler, Schülerin	pupil
+in, auf, bei, an	at
+zwölf	twelve
+auch	too
+diese/-r/-s	this
+neu	new
+Jahr;Jahrgangsstufe, Klasse, Schuljahr	year
+sieben	seven
+klein, winzig	tiny
+Maus	mouse
+eins	one
+und	and
+Zuhause	home
+Wie heißt du?	What's your name?
+Wie alt bist du?	How old are you?
+Woher kommst du?	Where are you from?
+Wie man...	How to...
+jemanden begrüßen	to say hello
+sagen	to say
+nützlich, hilfreich	useful
+Satz, Redewendung	phrase
+zehn	ten
+Telefonnummer	phone number
+Nummer, Hausnummer, Zahl	number
+Handy, Mobiltelefon	mobile
+oder	or
+schreiben	to write
+der, die, das	the
+Pack's an!	Hands on
+Ordner, Mappe	folder
+anfangen, beginnen	to start
+Wortsammlung	word bank
+Wort	word
+kennen; wissen	to know
+Grundschule	primary school
+mehr; weitere	more
+über	about
+dich selbst	yourself
