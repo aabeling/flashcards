@@ -105,7 +105,7 @@ Er kommt zu spät.	He's late.
 Du hast Glück/Ihr habt Glück	You're lucky.
 nicht	not
 bist, sind, seid nicht	aren't (=are not)
-sie	they
+sie (pl.)	they
 Mädchen	girl
 Junge	boy
 Was ist los?	What's up?
@@ -135,7 +135,7 @@ Federmäppchen	pencil-case
 Füller	pen
 Bleistift	pencil
 Radiergummi	rubber
-Linear	ruler
+Lineal	ruler
 Heft	exercise book
 Apfel	apple
 abschreiben, abmalen	to copy
@@ -176,7 +176,7 @@ hundert	one hundred
 Plural, Mehrzahl	plural
 Alphabet	alphabet
 klatschen	to clap
-Unterrichtsstunde	lessen
+Unterrichtsstunde	lesson
 rufen, schreien	to shout
 machen, tun	to do
 buchstabieren	to spell
