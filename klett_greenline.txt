@@ -215,3 +215,27 @@ jetzt, nun, gerade	now
 Rollenspiel	role play
 spielen (eine Rolle)	to act
 Dialog	dialogue
+Text	text
+kein/-e	no
+Problem	problem
+Restaurant, Kantine	eatery
+Mittagszeit, Mittagspause	lunchtime
+Cafeteria	cafeteria
+Schau mal!/Sieh mal!	Look!
+Witz	joke
+Buchstabe	letter
+leicht, einfach	easy
+langweilig	boring
+schrecklich, schlimm, furchtbar	terrible
+Schulhof, Spielplatz	playground
+sie ist gut in/bei...	she is good at...
+aufpassen	to watch out
+Ball	ball
+Baum	tree
+Gruppe	group
+vervollständigen	to complete
+stellen, setzen, legen	to put
+sie|(Dativ)	them
+höflich	polite
+du hast Unrecht/du irrst dich	you're wrong
+böse, gemein	nasty
