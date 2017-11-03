@@ -239,3 +239,67 @@ sie|(Dativ)	them
 höflich	polite
 du hast Unrecht/du irrst dich	you're wrong
 böse, gemein	nasty
+wortschlau, wortgewandt	wordwise
+Wortnetz	word web
+Vokabular, Wortschatz	vocabulary
+Fertigkeit	skill
+finden	to find
+gut	good
+Adjektiv, Eigenschaftswort	adjective
+andere/-r/-s/weitere/-r/-s	other
+Auschecken	check-out
+Was fehlt?	What is missing?
+anders, unterschiedlich	different
+trautes Heim/(Sprichwort)	home sweet home
+süß	sweet
+violett, lila	purple
+grau	grey
+grün	green
+schwarz	black
+weiß	white
+rosa, pink	pink
+rot	red
+blau	blue
+orange	orange
+braun	brown
+gelb	yellow
+Karte, Spielkarte	card
+pro	per
+hochhalten	to hold up
+richtig	correct
+Farbe	colour
+geöffnet, offen, aufgeschlagen	open
+fragen	to ask
+dann, danach	then
+schließen, zumachen	to close
+(be)antworten	to answer
+Küche	kitchen
+Wohnzimmer	living room
+Bad(ezimmer)	bathroom
+Schlafzimmer	bedroom
+Reim	rhyme
+Bett	bed
+Sofa, Couch	sofa
+lustig, witzig	funny
+Haus	house
+Fernseher	TV
+auswendig lernen	to learn by heart
+beschreiben	to describe
+so, auf diese Weise	like this
+Möbel	furniture
+Traum	dream
+sprechen (mit)/reden (mit)	to talk (to)
+zeichnen	to draw
+sein/-e	his
+Familie	family
+Mutter	mother
+Großvater	grandfather
+Opa	grandad
+Bruder	brother
+Schwester	sister
+Vater	father
+Papa, Vati	dad
+Großmutter	grandmother
+Oma	Grandma
+glücklich, fröhlich	happy
+Welche Farbe haben ...?	What colour are ...?
