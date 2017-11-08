@@ -303,3 +303,27 @@ Großmutter	grandmother
 Oma	Grandma
 glücklich, fröhlich	happy
 Welche Farbe haben ...?	What colour are ...?
+zu Hause	at home
+Eltern	parents
+Halbschwester	half-sister
+Stiefvater	step-father
+unser/-e	our
+Wohnung	flat
+Straße	road
+über	over
+Computerladen	computer shop
+Geschäft, Laden	shop
+sein	its
+klein	small
+Nasreen und ich sind ...	Nasreen and I are ...
+Einzelkind	only child
+Kind	child pl. children
+Katze	cat
+Tiger	tiger
+nur	only
+interessiert an	interested in
+Mäuse	mice
+Garten	garden
+Schuppen, Gartenhäuschen	shed
+Schlagzeug	drums
+Chemiekasten	chemistry set
