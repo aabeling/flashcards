@@ -84,7 +84,7 @@ richtig	right
 Reihenfolge	order
 Tipp, Ratschlag	tip
 Guten Morgen.	Good morning.
-WIe geht es dir/Ihnen?	How are you?
+Wie geht es dir/Ihnen?	How are you?
 Mir geht es gut.	I'm fine.
 Du bist dran.	Your turn.
 lang	long
@@ -203,7 +203,7 @@ anrufen	to phone
 vor	in front of
 benutzen, nutzen	to use
 Sätze für den Unterricht	classroom phrases
-auf Englisch	in Englisch (! großes E)
+auf Englisch	in English (! großes E)
 Tut mir leid, dass ich zu spät komme.	Sorry I'm late.
 Was haben wir als Hausaufgabe auf, bitte?	What's for homework, please?
 Kann ich bitte zur Toilette gehen?	Can I go to the toilet, please?
@@ -246,7 +246,7 @@ Fertigkeit	skill
 finden	to find
 gut	good
 Adjektiv, Eigenschaftswort	adjective
-andere/-r/-s/weitere/-r/-s	other
+andere/-r/-s|weitere/-r/-s	other
 Auschecken	check-out
 Was fehlt?	What is missing?
 anders, unterschiedlich	different
@@ -327,3 +327,42 @@ Garten	garden
 Schuppen, Gartenhäuschen	shed
 Schlagzeug	drums
 Chemiekasten	chemistry set
+zuordnen	to match
+Hund	dog
+Foto	photo
+jemandem zuhören	to listen to
+warum	why
+oben, im Obergeschoss	upstairs
+unten, im Untergeschoss	downstairs
+Nationalität	nationality
+Familienstammbaum	family tree
+verheiratet mit	married to
+Tante	aunt
+Onkel	uncle
+geschieden von	divorced from
+Cousin, Cousine	cousin
+Mittagessen	lunch
+Minute	minute
+neben	next to
+auf der linken Seite, links	on the left
+auf der rechten Seite, rechts	on the right
+europäisch, aus Europa	European
+polnisch, aus Polen; Polnisch	Polish
+weil, da	because
+Polen	Poland
+englisch, aus England	English
+griechisch, aus Griechenland; Griechisch	Greek
+heute	today
+italienisch, aus Italien; Italienisch	Italian
+euer; eure; Ihr(e)	your
+ihr, ihre (Plural)	their
+erzählen, sagen	to tell
+Deutschland	Germany
+Russland	Russia
+russisch, aus Russland; Russisch	Russian
+Griechenland	Greece
+Italien	Italy
+Türkei	Turkey
+türkisch, aus der Türkei; Türkisch	Turkish
+Spanien	Spain
+spanisch, aus Spanien; Spanisch	Spanish
