@@ -5,3 +5,6 @@
 Picture 1	Text 2	Text 3	Text 4
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Map_of_Europe_with_Spain_highlighted.svg/680px-Map_of_Europe_with_Spain_highlighted.svg.png	Spanien	Madrid	E
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Europe_portugal.svg/680px-Europe_portugal.svg.png	Portugal	Lissabon	P
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Europe_france.svg/680px-Europe_france.svg.png	Frankreich	Paris	F
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Europe_belgium.svg/680px-Europe_belgium.svg.png	Belgien	Brüssel	B
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Europe_netherlands.svg/680px-Europe_netherlands.svg.png	Niederlande	Amsterdam	NL
