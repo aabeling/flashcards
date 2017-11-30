@@ -1,0 +1,20 @@
+*	name	Kreise Schleswig Holstein
+*	description	Landkreise und kreisfreie Städte in Schleswig-Holstein
+*	author	Achim Abeling
+*	tsv	true
+Picture 1	Text 2	Text 3	Text 4
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schleswig-Holstein_KI.svg/500px-Schleswig-Holstein_KI.svg.png	Stadt Kiel	Kiel	KI
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schleswig-Holstein_NMS.svg/500px-Schleswig-Holstein_NMS.svg.png	Stadt Neumünster	Neumünster	NMS
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Schleswig-Holstein_FL.svg/500px-Schleswig-Holstein_FL.svg.png	Stadt Flensburg	Flensburg	FL
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schleswig-Holstein_HL.svg/500px-Schleswig-Holstein_HL.svg.png	Stadt Lübeck	Lübeck	HL
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schleswig-Holstein_RD.svg/500px-Schleswig-Holstein_RD.svg.png	Kreis Rendsburg-Eckernförde	Rendsburg	RD, ECK
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schleswig-Holstein_NF.svg/500px-Schleswig-Holstein_NF.svg.png	Kreis Nordfriesland	Husum	NF
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig-Holstein_PL%C3%96.svg/500px-Schleswig-Holstein_PL%C3%96.svg.png	Kreis Plön	Plön	PLÖ
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein_IZ.svg/500px-Schleswig-Holstein_IZ.svg.png	Kreis Steinburg	Itzehoe	IZ
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schleswig-Holstein_OD.svg/500px-Schleswig-Holstein_OD.svg.png	Kreis Stormarn	Bad Oldesloe	OD
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schleswig-Holstein_PI.svg/500px-Schleswig-Holstein_PI.svg.png	Kreis Pinneberg	Pinneberg	PI
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schleswig-Holstein_SE.svg/500px-Schleswig-Holstein_SE.svg.png	Kreis Segeberg	Bad Segeberg	SE
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schleswig-Holstein_OH.svg/500px-Schleswig-Holstein_OH.svg.png	Kreis Ostholstein	Eutin	OH
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schleswig-Holstein_HEI.svg/500px-Schleswig-Holstein_HEI.svg.png	Kreis Dithmarschen	Heide	HEI
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Schleswig-Holstein_RZ.svg/500px-Schleswig-Holstein_RZ.svg.png	Kreis Herzogtum-Lauenburg	Ratzeburg	RZ
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schleswig-Holstein_SL.svg/500px-Schleswig-Holstein_SL.svg.png	Kreis Schleswig-Flensburg	Schleswig	SL
