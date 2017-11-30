@@ -3,4 +3,5 @@
 *	author	Achim Abeling
 *	tsv	true
 Picture 1	Text 2	Text 3	Text 4
-https://upload.wikimedia.org/wikipedia/commons/f/f6/LocationSpainInEurope.png	Spanien	Madrid	E
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Map_of_Europe_with_Spain_highlighted.svg	Spanien	Madrid	E
+https://upload.wikimedia.org/wikipedia/commons/b/bb/Europe_portugal.svg	Portugal	Lissabon	P
