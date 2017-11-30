@@ -8,3 +8,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Europe_portugal.svg/68
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Europe_france.svg/680px-Europe_france.svg.png	Frankreich	Paris	F
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Europe_belgium.svg/680px-Europe_belgium.svg.png	Belgien	Brüssel	B
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Europe_netherlands.svg/680px-Europe_netherlands.svg.png	Niederlande	Amsterdam	NL
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Europe_gb.svg/680px-Europe_gb.svg.png	Großbrittanien	London	GB
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Europe_ireland.svg/680px-Europe_ireland.svg.png	Irland	Dublin	IRL
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Europe_italy.svg/680px-Europe_italy.svg.png	Italien	Rom	I
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Europe_malta.svg/680px-Europe_malta.svg.png	Malta	Valetta	M
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Europe_albania.svg/680px-Europe_albania.svg.png	Albanien	Tirana	AL
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Europe_greece.svg/680px-Europe_greece.svg.png	Griechenland	Athen	GR
+	Luxemburg	Luxemburg	L
+	Monaco	Monaco	MC
+	Vatikanstadt	Vatikanstadt	V
+	San Marino	San Marino	RSN
