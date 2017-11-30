@@ -3,4 +3,4 @@
 *	author	Achim Abeling
 *	tsv	true
 Picture 1	Text 2	Text 3	Text 4
-https://de.wikibooks.org/wiki/Wikijunior_Europa/_Spanien#/media/File:LocationSpainInEurope.png	Spanien	Madrid	E
+https://upload.wikimedia.org/wikipedia/commons/f/f6/LocationSpainInEurope.png	Spanien	Madrid	E
