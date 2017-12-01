@@ -14,7 +14,9 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Europe_italy.svg/680px
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Europe_malta.svg/680px-Europe_malta.svg.png	Malta	Valetta	M
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Europe_albania.svg/680px-Europe_albania.svg.png	Albanien	Tirana	AL
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Europe_greece.svg/680px-Europe_greece.svg.png	Griechenland	Athen	GR
-	Luxemburg	Luxemburg	L
-	Monaco	Monaco	MC
-	Vatikanstadt	Vatikanstadt	V
-	San Marino	San Marino	RSN
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Europe_luxemburg.svg/500px-Europe_luxemburg.svg.png	Luxemburg	Luxemburg	L
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Europe_monaco.svg/500px-Europe_monaco.svg.png	Monaco	Monaco	MC
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Europe_vatikan.svg/500px-Europe_vatikan.svg.png	Vatikanstadt	Vatikanstadt	V
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Europe_sanmarino.svg/500px-Europe_sanmarino.svg.png	San Marino	San Marino	RSM
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Europe_andorra.svg/500px-Europe_andorra.svg.png	Andorra	Andorra	AND
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Europe_cyprus.svg/500px-Europe_cyprus.svg.png	Zypern	Nikosia	CY
