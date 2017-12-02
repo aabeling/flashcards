@@ -32,4 +32,20 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Europe_lv.svg/500px-Eu
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Europe_ru.svg/500px-Europe_ru.svg.png	Russland	Moskau	RUS
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Europe_ua.svg/500px-Europe_ua.svg.png	Ukraine	Kiew	UA
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Europe_md.svg/500px-Europe_md.svg.png	Moldau	Kischinau	MD
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Europe_tr.svg/500px-Europe_tr.svg.png	Türkei	Ankara	TR
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Europe_xk.svg/500px-Europe_xk.svg.png	Kosovo	Pristina	KOS
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Europe_bg.svg/500px-Europe_bg.svg.png	Bulgarien	Sofia	BG
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Europe_me.svg/500px-Europe_me.svg.png	Montenegro	Podgorica	MNE
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Europe_mk.svg/500px-Europe_mk.svg.png	Mazedonien	Skopje	MK
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Europe_ba.svg/500px-Europe_ba.svg.png	Bosnien-Herzegowina	Sarajewo	BIH
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Europe_ro.svg/500px-Europe_ro.svg.png	Rumänien	Bukarest	RO
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Europe_si.svg/500px-Europe_si.svg.png	Slowenien	Ljubljana	SLO
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europe_de.svg/500px-Europe_de.svg.png	Deutschland	Berlin	D
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Europe_hr.svg/500px-Europe_hr.svg.png	Kroatien	Zagreb	HR
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Europe_rs.svg/500px-Europe_rs.svg.png	Serbien	Belgrad	SCB
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Europe_ch.svg/500px-Europe_ch.svg.png	Schweiz	Bern	CH
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Europe_at.svg/500px-Europe_at.svg.png	Österreich	Wien	A
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Europe_cz.svg/500px-Europe_cz.svg.png	Tschechien	Prag	CZ
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Europe_hu.svg/500px-Europe_hu.svg.png	Ungarn	Budapest	H
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Europe_sk.svg/500px-Europe_sk.svg.png	Slowakei	Bratislava	SK
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Europe_pl.svg/500px-Europe_pl.svg.png	Polen	Warschau	PL
