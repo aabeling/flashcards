@@ -8,7 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Europe_portugal.svg/68
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Europe_france.svg/680px-Europe_france.svg.png	Frankreich	Paris	F
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Europe_belgium.svg/680px-Europe_belgium.svg.png	Belgien	Brüssel	B
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Europe_netherlands.svg/680px-Europe_netherlands.svg.png	Niederlande	Amsterdam	NL
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Europe_gb.svg/680px-Europe_gb.svg.png	Großbrittanien	London	GB
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Europe_gb.svg/680px-Europe_gb.svg.png	Großbritanien	London	GB
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Europe_ireland.svg/680px-Europe_ireland.svg.png	Irland	Dublin	IRL
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Europe_italy.svg/680px-Europe_italy.svg.png	Italien	Rom	I
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Europe_malta.svg/680px-Europe_malta.svg.png	Malta	Valetta	M
@@ -26,7 +26,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Europe_fi.svg/500px-Eu
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Europe_is.svg/500px-Europe_is.svg.png	Island	Reykjavik	IS
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Europe_no.svg/500px-Europe_no.svg.png	Norwegen	Oslo	N
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Europe_se.svg/500px-Europe_se.svg.png	Schweden	Stockholm	S
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Europe_by.svg/500px-Europe_by.svg.png	Belarus	Minsk	BY
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Europe_by.svg/500px-Europe_by.svg.png	Belarus|Weißrussland	Minsk	BY
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Europe_lt_highlighted.svg/500px-Europe_lt_highlighted.svg.png	Litauen	Vilnius	LT
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Europe_lv.svg/500px-Europe_lv.svg.png	Lettland	Riga	LV
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Europe_ru.svg/500px-Europe_ru.svg.png	Russland	Moskau	RUS
