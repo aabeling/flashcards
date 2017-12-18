@@ -1,0 +1,12 @@
+*	name	Grammatik Nebensätze
+*	description	Arten von Nebensätzen, wofür sie verwendet werden und Schlüsselwörter
+*	author	Achim Abeling
+*	tsv	true
+Text 1	Text 2	Text 3
+Kausalsatz	Grund	weil, da
+Temporalsatz	Zeit	als, nachdem, wenn
+Finalsatz	Zweck, Absicht	damit
+Modalsatz	Art und Weise	indem
+Konsekutivsatz	Folge	so dass
+Konzessivsatz	Einräumung	obwohl
+Konditionalsatz	Bedingung	wenn, falls
