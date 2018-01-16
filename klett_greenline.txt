@@ -436,3 +436,60 @@ Kristall	crystal
 sprechen über	to talk about
 Geschichte, Erzählung	story
 sortieren	to sort
+Gruppe	group
+unterstreichen	to underline
+Hobby	hobby, pl. hobbies
+Land	land
+reiten, fahren	to ride
+Fahrrad	bike
+ansehen; beobachten	to watch
+Gitarre	guitar
+schwimmen gehen	to go swimming
+schwimmen	to swim
+lesen	to read
+sammeln, einsammeln	to collect
+Rollenspiel	role play
+Lass(t) uns anfangen!|Lass(t) uns gehen!	Let's go!
+Wochentage	days of the week
+Tag	day
+Woche	week
+Montag	Monday
+Dienstag	Tuesday
+Mittwoch	Wednesday
+Dönerstag	Thursday
+Freitag	Friday
+Samstag	Saturday
+Sonntag	Sunday
+Klub, Verein	club
+britisch	British
+wichtig	important
+dorthin, dahin	there
+Freizeit	free time
+treffen, sich treffen	to meet
+Orchester	orchestra
+dienstags	on Tuesdays
+von ... bis	from ... to
+nachmittags (Uhrzeit)	pm
+Kochklub	cooking club
+vormittags (Uhrzeit)	am
+Wie wäre es mit ...	How about ...
+wann	when
+um halb (vier)	at half past (three)
+in Ordnung, gut	fine
+Komm schon!|Komm jetzt!	Come on
+Wir sehen uns dort.	See you there.
+am Wochenende	at the weekend
+Kino	cinema
+Film	film
+Boygroup	boy band
+Wasser	water
+Uhr (Zeitangabe bei vollen Stunden)	o'clock
+Wie spät ist es, bitte?	What time is it, please?
+die Uhr lesen	to tell the time
+halb	half
+Viertel	quarter
+nach (bei Uhrzeitangaben)	past
+vor (bei Uhrzeitangaben)	to
+Minute	minute
+bei mir zu Hause	at my house
+Stadt	town
