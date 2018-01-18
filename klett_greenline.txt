@@ -493,3 +493,35 @@ vor (bei Uhrzeitangaben)	to
 Minute	minute
 bei mir zu Hause	at my house
 Stadt	town
+täglich	daily
+Routine	routine
+(Telefon)anruf	phone call
+Hier spricht Mama.	It's Mum here.
+Wie geht es dir/Ihnen?	How are you?
+Mir geht es gut, danke.	I'm fine, thanks.
+schön, gut	nice
+aufstehen	to get up
+früh	early
+gewöhnlich, normalerweise	usually
+jede/-r/-s	every
+Was ist mit ...?	What about ...?
+nach Hause gehen	to go home
+essen	to eat
+Schultag	school day
+nie, niemals	never
+nach; nachdem	after
+oft, häufig	often
+den Hund ausführen	to walk the dog
+gehen (zu Fuß)	to walk
+Lisa ist echt witzig.	Lisa is great fun.
+manchmal	sometimes
+im Fernsehen	on TV
+abends	in the evening
+einschlafen	to fall asleep
+besuchen	to visit
+uns	us
+Tanzunterricht, Tanzstunden	dancing lessons
+zuerst, als Erstes	first
+wieder; noch einmal, nochmal	again
+Box, Kasten, Kästchen, Schachtel	box
+hier ist ...(am Telefon)	this is ...
