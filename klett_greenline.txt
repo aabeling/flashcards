@@ -525,3 +525,53 @@ zuerst, als Erstes	first
 wieder; noch einmal, nochmal	again
 Box, Kasten, Kästchen, Schachtel	box
 hier ist ...(am Telefon)	this is ...
+dritte Person Singular	third person singular
+Notiz, Nachricht	note
+Hilfe	help
+Dose, Büchse	tin
+Katzenfutter	cat food
+Essen, Nahrung, Nahrungsmittel	food
+in (hinein)	into
+neben	next to
+Geschmacksrichtung "Hühnchen"	chicken flavour
+aussehen	to look
+lecker	tasty
+hereinkommen	to come in
+Loch hole
+füttern	to feed
+weglaufen	to run away
+laufen, rennen	to run
+durch den ganzen Garten	round the garden
+Nachbar, Nachbarin	neighbour
+danach	after that
+Straße	street
+Da ist sie ja.	There she is.
+verfolgen	to chase
+schließlich, endlich, zum Schluß	finally
+zurückgehen	to go back
+warten	to wait
+Es ist Zeit, nach Hause zu gehen.	It's time to go home.
+zusammen, gemeinsam	together
+mögen	to like
+lieben	to love
+Geschichte, Erzählung	story
+Haustier	pet
+aufwecken, aufwachen	to wake up
+waschen	to wash
+Gesicht	face
+Frühstück	breakfast
+bellen	to bark
+(mit)nehmen, bringen	to take
+unterrichten, lehren, beibringen	to teach
+(mit)bringen	to bring
+werfen	to throw
+mich;mir	me
+sich verirren	to get lost
+rufen, schreien	to call
+ausführen	to take out
+anbellen	to bark at
+Getränk	drink
+umfallen, hinfallen	to fall over
+schlafen	to sleep
+hundemüde	dog-tired
+zu Bett gehen	to go to bed
