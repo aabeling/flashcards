@@ -537,7 +537,7 @@ Geschmacksrichtung "Hühnchen"	chicken flavour
 aussehen	to look
 lecker	tasty
 hereinkommen	to come in
-Loch hole
+Loch	hole
 füttern	to feed
 weglaufen	to run away
 laufen, rennen	to run
