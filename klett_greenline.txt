@@ -597,3 +597,56 @@ passieren, geschehen	to happen
 schießen; treten	to kick
 das Verbinden von Lauten	linking sounds
 verbinden	to link
+arbeiten	to work
+interessant	interesting
+Sehenswürdigkeiten	sights
+Tourist, Touristin	tourist
+Broschüre	brochure
+U-Bahn	Underground
+Zug	train
+Station, Bahnhof	station
+jung	young
+hierher, hierhin	here
+Tunnel	tunnel
+führen	to go
+Welt	world
+Linie; Zeile	line
+westeuropäische Zeit	Greenwich Mean Time (GMT)
+Besucher, Besucherin	visitor
+Fuß	foot, pl. feet
+Westen	west
+Osten	east
+Stunde	hour
+zu viel	too much
+Nordsee	North Sea
+Norden	north
+Meer, die See	sea
+nennen	to call
+Wunder	wonder
+berühmt	famous
+Schiff	ship
+Leben	life, pl. lives
+aus aller Welt	from all round the world
+passen zu, gehören zu	to go with
+Teil	part
+den Weg finden	finding the way
+Verkehrsmittel, Beförderung	transport
+alle/-s; ganz	all
+mit (der U-Bahn), per	by (Underground)
+Fahrer, Fahrerin	driver
+nehmen (Bus, Zug); (ein)fangen	to catch
+fahren	to drive
+Taxi	taxi
+besondere/-r/-s	special
+holen, bringen; bekommen	to get
+sprechen (mit)	to speak (to)
+Pronomen, Fürwort	pronoun
+(Schul-)Klasse	class
+geben; schenken	to give
+alles	everything
+durcheinander geraten, vermischt	jumbled
+Objektpronomen	object pronoun
+nach ... fragen	to ask for ...
+Sprechfertigkeiten, Kommunikationsfertigkeiten	communication skills
+wiederholen	repeat
+natürlich, selbstverständlich	of course
