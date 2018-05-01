@@ -708,3 +708,16 @@ Finger	finger
 hölzern, aus Holz	wooden
 Bein	leg
 Papagei	parrot
+Geburtstag	birthday
+Wann hast du Geburtstag?	When's your birthday?
+Ich habe im März Geburtstag.	My birthday is in March.
+Alles Gute zum Geburtstag!	Happy Birthday!
+Geburtstagsfeier	birthday party
+einladen	to invite
+Ich möchte dich gerne zu meiner Geburtstagsfeier einladen.	I would like to invite you to my birthday party.
+Geschenk	present
+Kuchen, Torte	cake
+Kerze	candle
+kaufen	to buy
+Wie viel kostet ...?	How much is ...?
+Es kostet ... .	It's ... .
