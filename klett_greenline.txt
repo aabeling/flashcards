@@ -721,3 +721,82 @@ Kerze	candle
 kaufen	to buy
 Wie viel kostet ...?	How much is ...?
 Es kostet ... .	It's ... .
+Größe	size
+mittel(groß)	medium (M)
+groß	large (L)
+besonders groß	extra large (XL)
+Es kostet zwei Pfund.	It's two pounds.
+kaufen	to buy
+Zeitschriftengeschäft	news agent
+Kleidung, Kleider	clothes
+Sportgeschäft	sports shop
+Geld	money
+Penny, Pence	penny pl., pence
+einkaufen gehen	to go shopping
+Verkäufer, Verkäuferin	assistant
+teuer	expensive
+anprobieren	to try on
+Bitte schön.	Here you are.
+Kunde, Kundin	customer
+Datum	date
+Einladung	invitation
+der dritte März	the third of March
+Ich möchte ... / ich würde gerne ...	I'd like to (=I would like to)
+Ich möchte ... / ich will ...	I want to ...
+... (zu etwas) einladen	to invite ... out
+Pizzeria	pizza place
+reich	rich
+Warum lädst du nicht ... ein?	Why don't you invite ...?
+klein	little
+eine SMS schicken	to text
+jetzt, sofort, gerade	right now
+Mann	man, pl. men
+Monat	month
+Januar	January
+Februar	February
+März	March
+April	April
+Mai	May
+Juni	June
+Juli	July
+August	August
+September	September
+Oktober	October
+November	November
+Dezember	December
+erste	first
+zweite	second
+dritte	third
+vierte	fourth
+fünfte	fifth
+sechste	sixth
+siebte	seventh
+achte	eighth
+neunte	ninth
+zehnte	tenth
+elfte	eleventh
+zwölfte	twelfth|!kein v!
+dreizehnte	thirteenth
+vierzehnte	fourteenth
+fünfzehnte	fifteenth
+sechzehnte	sixteenth
+siebzehnte	seventeenth
+achtzehnte	eighteenth|!kein doppeltes t!
+neunzehnte	nineteenth
+zwanzigste	twentieth
+einundzwanzigste	twenty-first
+zweiundzwanzig	twenty-second
+dreiundzwanzig	twenty-third
+dreißigste	thirtieth
+hundertste	hundredth
+ein Picknick machen	to go for a picnic
+das present progressive benutzen	using the present progressive
+Kaufhaus	department store
+gerade (eben), soeben	just
+tanzen	to dance
+suchen (nach)	to look for
+noch, immer noch	still
+Dieb	thief, pl. thieves
+singen	to sing
+aufpassen auf, achten auf	to watch
+die anderen	the others
