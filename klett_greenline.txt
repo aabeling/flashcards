@@ -800,3 +800,54 @@ Dieb	thief, pl. thieves
 singen	to sing
 aufpassen auf, achten auf	to watch
 die anderen	the others
+wenig	little
+bis (zu), vor	before
+viel/-e, jede Menge	lots of
+Rezept	recipe
+Wie viel ...?	How much ...?
+Zucker	sugar
+brauchen	to need
+Ei	egg
+wissen wollen	to want to know
+Spaß haben, sich amüsieren	to have fun
+eine Tüte ...	a bag of ...
+eine Schachtel ...	a box of ...
+ein paar, einige; wenige	a few
+(zer)brechen, kaputtgehen	to break
+Mehl	flour
+viele	many
+Koch, Köchin	cook
+lachen	to laugh
+ein wenig, etwas	a little
+Kerze	candle
+auf der Welt	in the world
+zählen	to count
+eine Tasse ...	a cup of ...
+Schokoplätzchen	chocolate crispies
+nach oben gehen	to go up
+nach unten gehen	to go down
+eine Geschichte lesen	reading a story
+Titel	title
+Alles Gute zum Geburtstag!	Happy birthday!
+fertig, bereit	ready
+zu spät zur Schule kommen	to be late for school
+plötzlich, auf einmal	suddenly
+Wecker	alarm clock
+aufgeregt, begeistert	excited
+Überraschung	surprise
+Karaokegerät	karaoke machine
+jeder	everyone
+sogar, selbst	even
+laut	loud
+springen	to jump
+Was ist das für ein Lied?	What's that song?
+Radio	radio
+Hörst du kein Radio?	Don't you listen to the radio?
+wohnen, leben	to live
+Radiosender	radio station
+sich Notizen machen	to take notes
+Überschrift, Titel	heading
+Wörter finden	finding words
+Wörterbuch	dictionary
+alphabetisch	alphabetical
+usw.	etc.
