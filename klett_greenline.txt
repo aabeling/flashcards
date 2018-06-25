@@ -851,3 +851,54 @@ Wörter finden	finding words
 Wörterbuch	dictionary
 alphabetisch	alphabetical
 usw.	etc.
+Strandurlaub	beach holiday
+Ferien, Urlaub	holidays
+Meile	mile
+von ... entfernt	from
+Großbritannien	Britain
+östlich von	east of
+ein Pier, der eine Meile lang ist	a pier a mile long
+Spielautomaten	arcade games
+in der Stadt Penzance	in the town of Penzance
+warm	warm
+surfen gehen	to go surfing
+Welle, Woge	wave
+Drachenfest	kite festival
+einen Drachen steigen lassen	to fly a kite
+fliegen	to fly
+Winter	winter
+kalt	cold
+Küste	coast
+Sommer	summer
+Berg	mountain
+(hinauf)steigen, hinaufklettern, erklimmen	to climb
+Dorf	village
+Leuchtturm	lighthouse
+windig	windy
+Süden	south
+Ozean	ocean
+Küstenstadt	seaside town
+den Urlaub plane	planning your holidays
+im Internet surfen	to surf on the internet
+Hafen	harbour
+Mahlzeit, Essen	meal
+Restaurant, Gaststätte	restaurant
+Jahreszeit, Saison	season
+Herbst	autumn
+Frühling	spring
+Spaß für die ganze Familie	family fun
+anklicken	to click on
+bauen	to build
+Sandburg	sand castle
+Sand	sand
+Eiscreme, Eis	ice-cream
+müssen	must
+(ein)packen	to pack
+Gummistiefel	welly pl. wellies
+Regen	rain
+Badeanzug	swimsuit
+Sonnenbrille	sunglasses
+Adressbuch	address book
+Postkarte	postcard
+halten von, denken über	to think of
+(nach) dort drüben	over there
