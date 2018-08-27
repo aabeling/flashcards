@@ -1,0 +1,57 @@
+*	name	Klett Green Line 2 Vokabeln
+*	description	Vokabeln aus Green Line 2
+*	author	Achim Abeling
+*	tsv	true
+Text 1	Text 2
+animal	Tier
+city	Großstadt
+wild	wild
+fox	Fuchs
+bird	Vogel
+zoo	Zoo
+monkey	Affe
+farm	Bauernhof
+at the same time	zur selben Zeit, gleichzeitig
+field	Wiese, Weide, Feld
+chicken	Huhn, Hähnchen
+pig	Schwein
+cow	Kuh
+sheep pl. sheep	Schaf
+horse	Pferd
+farmhand	Landarbeiter/-in
+schools officer	Beauftragter für Schulklassen
+activity	Aktivität
+already	schon, bereits
+duty	Pflicht
+class trip	Klassenfahrt
+to milk	melken
+to look after	sich kümmern um
+grass	Gras
+mustn't	nicht dürfen
+nervous	nervös, aufgeregt
+calm	ruhig, friedlich
+allergic to	allergisch auf
+shed	Stall
+Pooh!	Igitt!
+to stink	stinken
+to muck out	ausmisten
+bacon	Speck
+four of them	vier davon
+milk	Milch
+bottle	Flasche
+to fight over	sich streiten um
+hand	Hand
+to wear	anhaben, tragen
+uniform	Uniform
+tutorial	Tutorium
+to take the register	Anwesenheitskontrolle durchführen
+register	Klassenbuch
+to arrive	ankommen
+assembly	Versammlung, Morgenappell
+break	Pause
+subject	Schulfach, Thema
+to stay	bleiben
+planner	Kalender
+what else	was noch
+to lose	verlieren
+to compare	vergleichen
