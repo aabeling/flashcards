@@ -1,0 +1,31 @@
+*	name	Latein Klasse 6
+*	description	Vokabeln Latein Klasse 6
+*	author	Achim Abeling
+*	tsv	true
+Text 1	Text 2
+esse	sein, sich befinden
+est	er/sie/es ist
+sunt	sie sind
+ridere	lachen, auslachen
+silva	Wald
+puella	Mädchen
+serva	Sklavin, Dienerin
+villa	Villa
+vicus	Dorf
+via	Weg
+murus	Mauer
+avus	Großvater
+servus	Sklave, Diener
+equus	Pferd
+campus	Feld
+non	nicht
+cur?	Warum?
+parere	gehorchen
+monere	mahnen, ermahnen
+debere	müssen, sollen
+quid?	Was?
+timere	fürchten, Angst haben
+oculus	Auge
+dolere	schmerzen, weh tun
+nunc	nun, jetzt
+tacere	schweigen, verschweigen
