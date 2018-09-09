@@ -55,3 +55,64 @@ planner	Kalender
 what else	was noch
 to lose	verlieren
 to compare	vergleichen
+talking about the past	über die Vergangenheit sprechen
+past	Verhangenheit
+yesterday	gestern
+to be, was/were	sein, war/waren
+campsite	Campingplatz, Zeltplatz
+to try	versuchen, probieren
+abseiling	Abseilen
+almost	fast, beinahe
+to paint	(an)malen, streichen
+ago	vor (zeitlich)
+paint	Farbe
+regular	regelmäßig, gleichmäßig
+irregular	unregelmäßig
+to have (got), had	haben, hatte; besitzen, besaß
+to go, went	gehen, ging
+to get, got	holen, holte; bringen, brachte; bekommen, bekam
+shark	Hai
+to run, ran	laufen, lief; rennen, rannte
+out of	aus ... heraus
+to see, saw	sehen, sah
+to get one's own back	jmdm. eins auswischen, sich rächen
+to sit, sat	sitzen, saß
+until	bis
+to know, knew	kennen, kannte; wissen, wusste
+to put, put	setzen, setzte; stellen, stellte; legen, legte
+to come, came	kommen, kam
+to find, found	finden, fand
+to do, did	machen, machte; tun, tat
+to wear, wore	anhaben, hatte an; tragen, trug
+to check	(über)prüfen; kontrollieren
+to buy, bought	kaufen, kaufte
+to bring, brought	(mit)bringen, brachte (mit)
+to learn, learnt	lernen, lernte
+CCTV	Videoüberwachung
+corridor	Gang, Flur, Korridor
+to get into trouble	in Schiwerigkeiten geraten
+to tell, told	erzählen, erzählte; sagen, sagte
+drame	Theater, Drama
+play	Spiel, Theaterstück
+embarrassing	peinlich
+negative	negativ, verneint
+timetable	Stundenplan, Fahrplan
+time	Mal
+library	Bibliothek
+back	Rückseite, Rücken
+to give, gave	geben, gab; schenken, schenkte
+Technology	Technologie; Computerunterricht
+Maths	Mathematik
+P.E. (Physical Education)	Sportunterricht
+physical	körperlich
+education	Erziehung, Bildung
+R.E. (Religious Education)	Religionsunterricht
+religious	religiös, gläubig
+Science	(Natur-)Wissenschaft
+Art	Kunst
+History	Geschichte
+P.S.E. (Personal and Socal Education)	Sozialkunde
+personal	persönlich
+social	sozial, Gesellschaft-
+Geography	Geografie, Erdkunde
+to win, won	gewinnen, gewann
