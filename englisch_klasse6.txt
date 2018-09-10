@@ -116,3 +116,29 @@ personal	persönlich
 social	sozial, Gesellschaft-
 Geography	Geografie, Erdkunde
 to win, won	gewinnen, gewann
+timebox	Zeitmaschine
+report	Bericht
+Roman	Römer, Römerin; römisch
+to meet, met	(sich) treffen, traf
+to pay, paid	bezahlen, bezahlte
+to teach, taught	unterrichten, unterrichtete; lehren, lehrte; beibringen, brachte bei
+Latin	Latein
+to write, wrote	schreiben, schrieb
+waxed	gewachst
+to rub out	wegreiben, ausradieren
+most	das meiste; die meisten
+speaker	Sprecher, Sprecherin
+hard	schwierig, schwer; hart
+to say, said	sagen, sagte
+grammar school	Gymnasium
+priest	Priester
+poor	arm
+craftspeople	Handwerker
+baker	Bäcker, Bäckerin
+bread	Brot
+entrance	Eingang
+to take, took	(mit)nehmen, nahm; (mit)bringen, brachte
+strict	streng
+boarding school	Internat
+French	Französisch; französisch
+infinitive	Infinitiv
