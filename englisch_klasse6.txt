@@ -142,3 +142,130 @@ strict	streng
 boarding school	Internat
 French	Französisch; französisch
 infinitive	Infinitiv
+welcome	Willkommen
+guidebook	Reiseführer
+gallery	(Kunst)Galerie
+popular	beliebt, populär
+palace	Palast
+royal	königlich
+than	als
+fruit	Obst, Frucht
+vegetable	Gemüse
+busker	Straßenmusikant(in)
+dungeon	Verlies
+view	(Aus)Sicht, (Aus)Blick
+pod	Gondel
+fire	Feuer
+to burn, burnt	(ver)brennen, (ver)brannte
+to find out	herausfinden
+exciting	spannend, aufregend
+fact	Fakt, Tatsache
+ice skating	Schlittschuhlaufen
+rainy	regnerisch
+Tube	U-Bahn
+to carry	tragen; befördern
+millions of	Millionen von
+million	Million
+passenger	Passagier/-in, Beifahrer/-in, Fahrgast
+something	etwas
+capital	Hauptstadt
+UK	Vereinigtes Königreich von Großbritannien und Nordirland
+theatre	Theater
+dinosaur	Dinosaurier
+inside	innen, im Inneren; hinein, nach drinnen; in
+conversation	Konversation, Gespräch, Unterhaltung
+each	jede/-r/-s
+Tube travel	U-Bahn-Fahren
+to travel	reisen, fahren
+escalator	Rolltreppe
+to get off	aussteigen
+through	durch
+ticket gate	Fahrkartenschranke
+to hurt, hurt	verletzen, weh tun
+to get on	einsteigen
+to catch, caught	einklemmen, klemmte ein
+between	zwischen
+platform	Bahnsteig; Plattform
+as	als
+pigeon	Taube
+to fly, flew	fliegen, flog
+to leave, left	(ver)lassen, verließ; abfahren, fuhr ab
+to hang, hung	hängen, hing
+Mind the gap	Vorsicht beim Ein- und Aussteigen
+Stand clear of the doors	Zurückbleiben, bitte
+while	während
+travelcard	Netzkarte
+without	ohne
+to begin, began	beginnen, begann; anfangen, find an
+to fall, fell	(hin)fallen, fiel (hin)
+to change	umsteigen; wechseln
+stop	Haltestelle
+fare	Fahrpreis
+southbound	in Richtung Süden
+comparing things and people	Dinge und Personen vergleichen
+to spend, spent	verbringen, verbrachte
+sightseeing	Besichtigungstour
+full	voll
+true	wahr
+better	besser
+toy	Spielzeug
+worst	schlimmste/-r/-s; schlechteste/-r/-s
+the six of us	uns sechs
+as ... as	so ... wie
+to add	etw. (zu etw.) hinzufügen
+comparative	Komparativ
+superlative	Superlativ
+worse	schlimmer; schlechter
+model	Modell
+fun	Spaß
+antique	Antiquität
+arts and crafts	Kunsthandwerk
+the rest	der Rest
+tall	groß; hoch
+around	herum, umher
+corner	Ecke
+king	König
+queen	Königin
+to have	haben, besitzen
+Christmas	Weihnachten
+to have (breakfast, etc)	essen; trinken
+to be lost	sich verirrt haben
+to lose, lost	verlieren, verlor
+anyway	trotzdem; jedenfalls, sowieso
+crazy	verrückt
+like the back of my hand	wie meine Westentasche, in und auswendig
+guide	Führer(in)
+real	echt, richtig, wirklich
+to be gone	verschwunden sein, weg sein
+really	wirklich
+all day	den ganzen Tag
+piece	Stück
+paper	Papier
+to fall out of, fell out of	herausfallen aus
+to pick up	aufheben
+perfume	Parfüm
+on	an(geschaltet)
+watch	Armbanduhr
+traffic	Verkehr
+queue	Schlange
+to cry	weinen; schreien, rufen
+at the front of	an der Spitze (von), im vorderen Bereich
+at the front	vorn(e)
+to hold hands	Händchen halten
+secret	Geheimnis
+about	ungefähr, circa, etwa
+to kiss	küssen
+to make, made	machten, machte
+to make a face	ein Gesicht ziehen
+high	hoch; groß
+to get back	zurückkommen
+to follow	hinterhergehen; (be)folgen
+carriage	Wagen, Wagon
+ending	Schluss, Ende
+opposite	Gegenteil
+Londoner	Londoner(in)
+to be tired of	einer Sache überdrüssig sein
+pyramid	Pyramide
+comparison	Vergleich
+short	klein
+hair	Haar, Haare
