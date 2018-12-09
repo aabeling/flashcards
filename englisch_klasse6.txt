@@ -269,3 +269,40 @@ pyramid	Pyramide
 comparison	Vergleich
 short	klein
 hair	Haar, Haare
+pocket money	Taschengeld
+pocket	Tasche, Hosentasche
+text	SMS
+credit	Guthaben
+top-up card	Aufladekarte
+to spend (on), spent (on)	ausgeben (für), gab aus
+all of it	alle/-s (davon); ganz
+to save	sparen
+flow chart	Flussdiagramm
+right away	sofort
+price	Preis
+trainers	Turnschuhe
+to cost, cost	kosten, kostete
+to lend (to), lent	leihen, lieh; verleihen, verlieh
+sho assistant	Verkäufer/in
+change	Münzgeld, Wechselgeld
+to borrow	(sich) ausleihen
+mean	knauserig, geizig
+to become, became	werden, wurde
+a bit	ein wenig, ein bisschen
+going shopping	Einkaufen gehen
+style	Stil
+skirt	Rock
+trousers	Hose
+horrible	schrecklich, furchtbar
+changing room	Umkleidekabine
+positive	positiv
+tense	Zeit, Zeitform (grammatisch)
+question tag	Frageanhängsel, Bestätigungsfrage
+voice	Stimme
+to expect	erwarten
+greedy	habgeirig, raffsüchtig
+to earn	verdienen
+to turn around	(sich) umdrehen, wenden
+to create	(er)schaffen
+credit card	Kreditkarte
+mall	Einkaufszentrum
