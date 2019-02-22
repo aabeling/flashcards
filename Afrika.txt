@@ -1,0 +1,60 @@
+*	name	Afrika Hauptstädte
+*	description	Hauptstädte Afrika
+*	author	Achim Abeling
+*	tsv	true
+Picture 1	Text 2	Text 3
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Africa_ao.svg/500px-Africa_ao.svg.png	Angola	Luanda
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Africa_bf.svg/500px-Africa_bf.svg.png	Burkina Faso	Ouagadougou
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Africa_bi.svg/500px-Africa_bi.svg.png	Burundi	Gitega
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Africa_bj.svg/500px-Africa_bj.svg.png	Benin	Porto-Novo
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Africa_bw.svg/500px-Africa_bw.svg.png	Botswana	Gaborone
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Africa_cd.svg/500px-Africa_cd.svg.png	Kongo, Demokratische Republik	Kinshasa
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Africa_cf.svg/500px-Africa_cf.svg.png	Zentralafrikanische Republik	Bangui
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Africa_cg.svg/500px-Africa_cg.svg.png	Kongo, Republik	Brazzaville
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Africa_ci.svg/500px-Africa_ci.svg.png	Elfenbeinküste	Yamoussoukro
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Africa_cm.svg/500px-Africa_cm.svg.png	Kamerun	Yaounde
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Africa_cv.svg/500px-Africa_cv.svg.png	Kap Verde	Praia
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Africa_dj.svg/500px-Africa_dj.svg.png	Dschibuti	Dschibuti-Stadt
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Africa_dz.svg/500px-Africa_dz.svg.png	Algerien	Algier
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Africa_eg.svg/500px-Africa_eg.svg.png	Ägypten	Kairo
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Africa_eh.svg/500px-Africa_eh.svg.png	Westsahara	El Aaiun
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Africa_er.svg/500px-Africa_er.svg.png	Eritrea	Asmara
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Africa_et.svg/500px-Africa_et.svg.png	Äthiopien	Addis Abeba
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Africa_ga.svg/500px-Africa_ga.svg.png	Gabun	Libreville
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africa_gh.svg/500px-Africa_gh.svg.png	Ghana	Accra
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Africa_gm.svg/500px-Africa_gm.svg.png	Gambia	Banjul
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Africa_gn.svg/500px-Africa_gn.svg.png	Guinea	Conakry
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Africa_gq.svg/500px-Africa_gq.svg.png	Äquatorialguinea	Malabo
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Africa_gw.svg/500px-Africa_gw.svg.png	Guinea-Bissau	Bissau
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Africa_ke.svg/500px-Africa_ke.svg.png	Kenia	Nairobi
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Africa_km.svg/500px-Africa_km.svg.png	Komoren	Moroni
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Africa_lr.svg/500px-Africa_lr.svg.png	Liberia	Monrovia
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Africa_ls.svg/500px-Africa_ls.svg.png	Lesotho	Maseru
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Africa_ly.svg/500px-Africa_ly.svg.png	Libyen	Tripolis
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Africa_ma.svg/500px-Africa_ma.svg.png	Marokko	Rabat
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Africa_mg.svg/500px-Africa_mg.svg.png	Madagaskar	Antananarivo
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Africa_ml.svg/500px-Africa_ml.svg.png	Mali	Bamako
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Africa_mr.svg/500px-Africa_mr.svg.png	Mauretanien	Nouakchott
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Africa_mu.svg/500px-Africa_mu.svg.png	Mauritius	Port Louis
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Africa_mw.svg/500px-Africa_mw.svg.png	Malawi	Lilongwe
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Africa_mz.svg/500px-Africa_mz.svg.png	Mosambik	Maputo
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Africa_na.svg/500px-Africa_na.svg.png	Namibia	Windhoek
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Africa_ne.svg/500px-Africa_ne.svg.png	Niger	Niamey
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Africa_ng.svg/500px-Africa_ng.svg.png	Nigeria	Abuja
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Africa_rw.svg/500px-Africa_rw.svg.png	Ruanda	Kigali
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Africa_sc.svg/500px-Africa_sc.svg.png	Seychellen	Victoria
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Africa_sd.svg/500px-Africa_sd.svg.png	Sudan	Khartum
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Africa_sl.svg/500px-Africa_sl.svg.png	Sierra Leone	Freetown
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Africa_sn.svg/500px-Africa_sn.svg.png	Senegal	Dakar
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Africa_so.svg/500px-Africa_so.svg.png	Somalia	Mogadischu
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Africa_ss.svg/500px-Africa_ss.svg.png	Südsudan	Juba
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Africa_st.svg/500px-Africa_st.svg.png	Sao Tome und Principe	Sao Tome
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Africa_sz.svg/500px-Africa_sz.svg.png	Swasiland	Mbabane
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Africa_td.svg/500px-Africa_td.svg.png	Tschad	N'Djamena
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Africa_tg.svg/500px-Africa_tg.svg.png	Togo	Lome
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Africa_tn.svg/500px-Africa_tn.svg.png	Tunesien	Tunis
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Africa_tz.svg/500px-Africa_tz.svg.png	Tansania	Dodoma
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Africa_ug.svg/500px-Africa_ug.svg.png	Uganda	Kampala
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Africa_za.svg/500px-Africa_za.svg.png	Südafrika	Pretoria
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Africa_zm.svg/500px-Africa_zm.svg.png	Sambia	Lusaka
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Africa_zw.svg/500px-Africa_zw.svg.png	Simbabwe	Harare

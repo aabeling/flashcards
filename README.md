@@ -35,3 +35,7 @@ Wenn die Datei auf github geändert wurde, aktualisiert man den Stapel in Flashc
 * Stapel auswählen
 * `Herunterladen/Update`
 * `alle Karten ersetzen`
+
+# Flashcards für Europa und Afrika
+
+/home/abeling/Projects/wikimedia/Afrika
