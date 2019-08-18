@@ -7,7 +7,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Map_of_USA_AL.svg/200p
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Map_of_USA_AK.svg/200px-Map_of_USA_AK.svg.png	Alaska	Juneau
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_of_USA_AZ.svg/200px-Map_of_USA_AZ.svg.png	Arizona	Phoenix
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Map_of_USA_AR.svg/200px-Map_of_USA_AR.svg.png	Arkansas	Little Rock
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Map_of_USA_CA.svg/200px-Map_of_USA_CA.svg.png	Kalifornen	Sacramento
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Map_of_USA_CA.svg/200px-Map_of_USA_CA.svg.png	Kalifornien	Sacramento
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Map_of_USA_CO.svg/200px-Map_of_USA_CO.svg.png	Colorado	Denver
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Map_of_USA_CT.svg/200px-Map_of_USA_CT.svg.png	Connecticut	Hartford
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Map_of_USA_DE.svg/200px-Map_of_USA_DE.svg.png	Delaware	Dover
