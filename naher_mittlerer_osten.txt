@@ -1,0 +1,25 @@
+*	name	Naher und Mittlerer Osten
+*	description	Staaten des Nahen und Mittleren Ostens mit Positionskarten und Hauptstädten
+*	author	Achim Abeling
+*	tsv	true
+Picture 1	Text 2	Text 3
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/LocationSaudiArabia.svg/200px-LocationSaudiArabia.svg.png	Saudi-Arabien	Riad
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oman_in_its_region.svg/200px-Oman_in_its_region.svg.png	Oman	Maskat
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yemen_on_the_globe_%28Afro-Eurasia_centered%29.svg/200px-Yemen_on_the_globe_%28Afro-Eurasia_centered%29.svg.png	Jemen	Sanaa
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Egypt_in_its_region_%28undisputed%29.svg/200px-Egypt_in_its_region_%28undisputed%29.svg.png	Ägypten	Kairo
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/LocationJordan.svg/200px-LocationJordan.svg.png	Jordanien	Amman
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Syria_on_the_globe_%28Afro-Eurasia_centered%29.svg/200px-Syria_on_the_globe_%28Afro-Eurasia_centered%29.svg.png	Syrien	Damaskus
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Europe_location_Turkey.svg/200px-Europe_location_Turkey.svg.png	Türkei	Ankara
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iraq_in_its_region.svg/200px-Iraq_in_its_region.svg.png	Irak	Bagdad
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kuwait_in_its_region.svg/200px-Kuwait_in_its_region.svg.png	Kuwait	Kuwait-Stadt
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/United_Arab_Emirates_in_its_region.svg/200px-United_Arab_Emirates_in_its_region.svg.png	Vereinigte Arabische Emirate	Abu Dhabi
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Qatar_in_its_region.svg/200px-Qatar_in_its_region.svg.png	Katar	Doha
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iran_in_its_region.svg/200px-Iran_in_its_region.svg.png	Iran	Teheran
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Afghanistan_on_the_globe_%28Afro-Eurasia_centered%29.svg/200px-Afghanistan_on_the_globe_%28Afro-Eurasia_centered%29.svg.png	Afghanistan	Kabul
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pakistan_on_the_globe_%28claimed_hatched%29_%28Afro-Eurasia_centered%29.svg/200px-Pakistan_on_the_globe_%28claimed_hatched%29_%28Afro-Eurasia_centered%29.svg.png	Pakistan	Islamabad
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/India_on_the_globe_%28claimed_and_uncontrolled_hatched%29_%28Asia_centered%29.svg/200px-India_on_the_globe_%28claimed_and_uncontrolled_hatched%29_%28Asia_centered%29.svg.png	Indien	Neu-Delhi
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nepal_on_the_globe_%28Asia_centered%29.svg/200px-Nepal_on_the_globe_%28Asia_centered%29.svg.png	Nepal	Kathmandu
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lebanon_in_its_region.svg/200px-Lebanon_in_its_region.svg.png	Libanon	Beirut
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Israel_in_its_region_%28de-facto%29.svg/200px-Israel_in_its_region_%28de-facto%29.svg.png	Israel	Jerusalem
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sri_Lanka_on_the_globe_%28Asia_centered%29.svg/200px-Sri_Lanka_on_the_globe_%28Asia_centered%29.svg.png	Sri Lanka	Colombo
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bahrain_in_its_region.svg/200px-Bahrain_in_its_region.svg.png	Bahrain	Manama
