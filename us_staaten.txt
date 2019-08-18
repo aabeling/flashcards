@@ -1,0 +1,55 @@
+*	name	Staaten der USA
+*	description	Staaten der USA mit Positionskarten von wikimedia und Hauptstädten
+*	author	Achim Abeling
+*	tsv	true
+Picture 1	Text 2	Text 3
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Map_of_USA_AL.svg/200px-Map_of_USA_AL.svg.png	Alabama	Montgomery
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Map_of_USA_AK.svg/200px-Map_of_USA_AK.svg.png	Alaska	Juneau
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_of_USA_AZ.svg/200px-Map_of_USA_AZ.svg.png	Arizona	Phoenix
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Map_of_USA_AR.svg/200px-Map_of_USA_AR.svg.png	Arkansas	Little Rock
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Map_of_USA_CA.svg/200px-Map_of_USA_CA.svg.png	Kalifornen	Sacramento
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Map_of_USA_CO.svg/200px-Map_of_USA_CO.svg.png	Colorado	Denver
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Map_of_USA_CT.svg/200px-Map_of_USA_CT.svg.png	Connecticut	Hartford
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Map_of_USA_DE.svg/200px-Map_of_USA_DE.svg.png	Delaware	Dover
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Map_of_USA_FL.svg/200px-Map_of_USA_FL.svg.png	Florida	Tallahassee
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Map_of_USA_GA.svg/200px-Map_of_USA_GA.svg.png	Georgia	Atlanta
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Map_of_USA_HI.svg/200px-Map_of_USA_HI.svg.png	Hawaii	Honolulu
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Map_of_USA_ID.svg/200px-Map_of_USA_ID.svg.png	Idaho	Boise
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Map_of_USA_IL.svg/200px-Map_of_USA_IL.svg.png	Illinois	Springfield
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Map_of_USA_IN.svg/200px-Map_of_USA_IN.svg.png	Indiana	Indianapolis
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Map_of_USA_IA.svg/200px-Map_of_USA_IA.svg.png	Iowa	Des Moines
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Map_of_USA_KS.svg/200px-Map_of_USA_KS.svg.png	Kansas	Topeka
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Map_of_USA_KY.svg/200px-Map_of_USA_KY.svg.png	Kentucky	Frankfort
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Map_of_USA_LA.svg/200px-Map_of_USA_LA.svg.png	Louisiana	Baton Rouge
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Map_of_USA_ME.svg/200px-Map_of_USA_ME.svg.png	Maine	Augusta
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_USA_MD.svg/200px-Map_of_USA_MD.svg.png	Maryland	Annapolis
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png	Massachusetts	Boston
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Map_of_USA_MI.svg/200px-Map_of_USA_MI.svg.png	Michigan	Lansing
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_USA_MN.svg/200px-Map_of_USA_MN.svg.png	Minnesota	Saint Paul
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Map_of_USA_MS.svg/200px-Map_of_USA_MS.svg.png	Mississippi	Jackson
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Map_of_USA_MO.svg/200px-Map_of_USA_MO.svg.png	Missouri	Jefferson City
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Map_of_U.S._-_MT.svg/200px-Map_of_U.S._-_MT.svg.png	Montana	Helena
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Map_of_USA_NE.svg/200px-Map_of_USA_NE.svg.png	Nebraska	Lincoln
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Map_of_USA_NV.svg/200px-Map_of_USA_NV.svg.png	Nevada	Carson City
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_USA_NH.svg/200px-Map_of_USA_NH.svg.png	New Hampshire	Concord
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Map_of_USA_NJ.svg/200px-Map_of_USA_NJ.svg.png	New Jersey	Trenton
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Map_of_USA_NM.svg/200px-Map_of_USA_NM.svg.png	New Mexico	Santa Fe
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Map_of_USA_NY.svg/200px-Map_of_USA_NY.svg.png	New York	Albany
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Map_of_USA_NC.svg/200px-Map_of_USA_NC.svg.png	North Carolina	Raleigh
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Map_of_USA_ND.svg/200px-Map_of_USA_ND.svg.png	North Dakota	Bismarck
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Map_of_USA_OH.svg/200px-Map_of_USA_OH.svg.png	Ohio	Columbus
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Map_of_USA_OK.svg/200px-Map_of_USA_OK.svg.png	Oklahoma	Oklahoma City
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Map_of_USA_OR.svg/200px-Map_of_USA_OR.svg.png	Oregon	Salem
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Map_of_USA_PA.svg/200px-Map_of_USA_PA.svg.png	Pennsylvania	Harrisburg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Map_of_USA_RI.svg/200px-Map_of_USA_RI.svg.png	Rhode Island	Providence
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Map_of_USA_SC.svg/200px-Map_of_USA_SC.svg.png	South Carolina	Columbia
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USA_SD.svg/200px-Map_of_USA_SD.svg.png	South Dakota	Pierre
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Map_of_USA_TN.svg/200px-Map_of_USA_TN.svg.png	Tennessee	Nashville
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Map_of_USA_TX.svg/200px-Map_of_USA_TX.svg.png	Texas	Austin
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Map_of_USA_UT.svg/200px-Map_of_USA_UT.svg.png	Utah	Salt Lake City
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Map_of_USA_VT.svg/200px-Map_of_USA_VT.svg.png	Vermont	Montpelier
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Map_of_USA_VA.svg/200px-Map_of_USA_VA.svg.png	Virginia	Richmond
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Map_of_USA_WA.svg/200px-Map_of_USA_WA.svg.png	Washington	Olympia
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Map_of_USA_WV.svg/200px-Map_of_USA_WV.svg.png	West Virginia	Charleston
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Map_of_USA_WI.svg/200px-Map_of_USA_WI.svg.png	Wisconsin	Madison
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Map_of_USA_WY.svg/200px-Map_of_USA_WY.svg.png	Wyoming	Cheyenne
