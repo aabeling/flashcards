@@ -1,0 +1,5 @@
+*	name	Klett Green Line 3 Vokabeln
+*	description	Vokabeln aus Green Line 3
+*	author	Lena Abeling
+*	tsv	true
+Text 1	Text 2	
