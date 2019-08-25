@@ -3,3 +3,44 @@
 *	author	Lena Abeling
 *	tsv	true
 Text 1	Text 2	
+oval	oval,eiförmig	
+pitch	Spielfeld,Platz	
+referee	Schiedsrichter	
+to control	kontrollieren	
+baseball	Baseball	
+ice	Eis	
+stick	Stock,Schläger	
+Base	Base (beim baseball)	
+field	feld	
+bat	Schläger(Tischtennis,Baseball)	
+cricket	Kricket	
+to go on	(an)dauern	
+athletics	Leichtathletik	
+rugby	Rugby	
+track	Bahn,Weg	
+skateboarding	Skateboard fahren	
+American	amerikanisch	
+helmet	Helm	
+racket	Schläger	
+umpire	Schiedsrichter	
+court	Spielfeld	
+ice hockey	Eishockey	
+race	Wettlauf, Rennen	
+brake	Bremse	
+event	Ereignis, Veranstaltungen	
+chance	Chance	
+arrangements	Abmachungen,Vereinbarungen, Plan	
+feeling	Gefühl	
+not until 	erst (dann) , wenn	
+to offer	(an)bieten	
+to open	eröffnen	
+situation	Situation	
+talkwise	redegewandt	
+agreeing	Zustimmen	
+disagreeing	Widersprechen 	
+wheelchair	Rollstuhl	
+once	einmal	
+to agree	zustimmen	
+exactly	genau	
+rubbish	Unsinn, Quatsch, Müll	
+luck	Glück	
