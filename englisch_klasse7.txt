@@ -44,3 +44,51 @@ to agree	zustimmen
 exactly	genau	
 rubbish	Unsinn, Quatsch, Müll	
 luck	Glück	
+relative clause	Relativsatz	
+which	der, dem,den,die,das	
+American Football	American Football	
+half pl. Halves	die Hälfte, Halbzeit	
+channel	Kanal, Programm	
+that	der,dem,den,die,das	
+commercial break	Werbepause	
+commercial	Werbespot	
+who	der,dem,den,die	
+also	auch	
+unusual	ungewöhnlich	
+bobsleigh	Bob	
+snow	Schnee	
+whose	Dessen,deren	
+rowing	Rudern	
+the lungs	die Lunge	
+swimming	Schwimmen	
+scientist	Wissenschaftler	
+disabled	behindert	
+athlete	Athlet	
+gold medal	Goldmedaille	
+record	Rekord	
+marathon	Marathon	
+love	null(Tennis)	
+relative pronoun	Relativpronomen	
+sweat	Schweiß	
+oddity	Eigenartigkeit, Kuriosität	
+definition	Definition	
+contact clause	Relativsatz ohne RP	
+exact	genau,exact	
+eagle	Adler	
+glasses	Brille	
+ski jump	Skispringen	
+ski	Ski	
+jump	Sprung	
+at last	Endlich	
+press conference	Pressekonferenz	
+to mist up	beschlagen	
+goggles	Schwimmbrille	
+ski jumper	Skispringer	
+van	Lieferwagen	
+tratidion	Tradition	
+far	weit	
+might	könnte(n)	
+to slide,slid,slid	gleiten,rutschen	
+to flap	flattern	
+place	Platz	
+to wave	winken	
